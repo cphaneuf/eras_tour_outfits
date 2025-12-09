@@ -27,14 +27,10 @@
 ## HOUSEKEEPING
 
 <b>To summarize the contents of this repo:</b>
-
-<i>data.csv</i> is a database of Eras Tour outfits
-
-<i>code.py</i> performs data visualizations and conducts the analyses to address the research questions, above
-
-<i>usa_regions_ref.png</i> is the reference used for the labeling the Region column of data.csv
-
-<i>base_env.yaml</i> recreates my environment in Anaconda-Navigator
+- <i>data.csv</i> is a database of Eras Tour outfits
+- <i>code.py</i> performs data visualizations and conducts the analyses to address the research questions, above
+- <i>usa_regions_ref.png</i> is the reference used for the labeling the Region column of data.csv
+- <i>base_env.yaml</i> recreates my environment in Anaconda-Navigator
 
 The code was developed using the Spyder IDE (version 5.4.3), launched through Anaconda-Navigator. To run, be sure to change the value of <i>abs_path</i> to reflect the absolute path to this repo on your personal machine.
 
