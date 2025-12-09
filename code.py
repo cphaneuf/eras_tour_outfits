@@ -643,3 +643,5 @@ for subsequent eras?
 # finish implementing models where once you know 1 era's outfit combo, you predict the next era's outfit combo
 # try other algorithms to make the best midnights model possible
 # change midnights model training to 10-fold CV
+# do feature ranking for midnights model
+# do benchmarking for each era (i.e., did the models predict swiftie predictions?)
